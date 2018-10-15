@@ -8,4 +8,4 @@ if __name__ == '__main__':
 		return names2
 
 	print(cap_join(names))
-	
+	:)
