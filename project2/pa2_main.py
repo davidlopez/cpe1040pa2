@@ -13,7 +13,7 @@ if __name__ == '__main__':
 
 	print(cap_join(names))
 
-#Solution 2
+# Solution 2 
 
 # def cap_join(list1):
 
